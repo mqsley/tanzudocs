@@ -1,0 +1,230 @@
+Prioritize features
+One of your most important responsibilities as a product manager is to prioritize features. That means deciding what to build (or not),
+and when.
+Feature ideas can come from a variety of places:
+Anyone on the product team
+Your product sponsors and stakeholders
+Your founders and your board of advisors
+Your customers
+Your competitors
+As product managers, we must filter these ideas. It’s not possible to do everything, and it’s even less possible to do everything at the
+same time. We need to make sure the team is only working on features that should be built, and always in a prioritized order: from
+highest value to next-highest value and so forth. That means we must learn when (and how) to say “no” in addition to when to say “yes.”
+Unless you know when to say “no,” you’ll end up with a lot of tangentially related features, a complex product that no one is really
+happy with, and an overworked product team.
+Is it valuable? Can we do it?
+There are several heuristics you can apply to make informed prioritization decisions. You’ll need to consider viability (will it help our
+business?), desirability (do our users want it?), and feasibility (can we do it?).
+Feature prioritization is part science and part art. You’ll need to develop an instinct for what your users want, and then use data and a
+robust process to back it up.
+At a minimum, the features you decide to build should do the following:
+Satisfy needs or desires that are shared by most users.
+Help you make progress against a business goal.
+Be possible for the team to build well and ship fast.
+“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It
+means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud
+of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.”
+STEVE JOBS
+“ People think focus means saying
+
+yes to the thing you’ve got to
+focus on. But that’s not what it
+means at all. It means saying
+no to the hundred other good
+ideas that there are. You have
+to pick carefully. I’m actually as
+proud of the things we haven’t
+done as the things I have done.
+Innovation is saying no to 1,000
+things.”
+—STEVE JOBS
+Example: HomeWiFi feature prioritization
+brainstorm feature ideas
+Organize the ideas based on impact against top user needs
+HomeWiFi has learned that installers have two primary needs when it comes
+to diagnosing network issues:
+
+They need to get reliable access to the customer’s network via shared
+ownership.
+They need to know if it’s a device connectivity problem or a HomeWiFi
+network node connectivity problem.
+LOW
+IMPACT
+HIGH
+IMPACT
+HIGH
+IMPACT
+Device or
+node problem?
+Shared network
+ownership
+FOCUS HERE
+take ideas that have a high impact relative to user needs and organize
+them based on impact relative to business goals
+To strengthen its position in the homeowner market, HomeWiFi needs to
+expand its footprint and popularity in the installer market. Therefore, its two
+primary business goals are:
+
+Grow the number of installers that support HomeWiFi’s system.
+Help installers acquire new customers.
+LOW
+IMPACT
+HIGH
+IMPACT
+HIGH
+IMPACT
+New customer
+acquisition
+New installeracquisition
+FOCUS HERE
+take ideas that have a high impact relative to business goals and organize
+them based on effort
+Start by building features above the horizontal line.
+
+These are features that help you address your top user needs and either one
+or both of your top business goals.
+
+LOW
+IMPACT
+HIGH
+IMPACT
+HIGH
+IMPACT
+Device or
+node problem?
+Shared network
+ownership
+**1. Start here
+
+Go here next 3. Should you
+really go here?**
+Manage the backlog
+The backlog is where we translate our product vision and strategy into the day-to-day, tactical work of software development.
+
+What is a product backlog?
+
+The backlog is a list of development work derived from the product roadmap, organized by priority. The most important piece of work is
+at the top. A well-organized and up-to-date backlog enables the team to build features and functionality efficiently, with a predictable
+rate of output.
+
+As the product manager, you own the backlog. However, you’ll gather input from all perspectives on the team to inform priority.
+
+Breaking down the product
+
+Many teams build products horizontally, breaking the work down along architectural boundaries. For instance, separate teams might
+build the back-end and the front-end layers. The problem with this approach is that we can’t ship anything usable to our users until
+we’ve finished and connected all the layers.
+
+Agile teams aspire to work in vertical slices, which means they build the product one small feature at a time. This allows teams to deliver
+new value to users frequently and get their feedback on the new functionality. Frequent user feedback helps agile teams make
+necessary adjustments sooner and at a smaller scale than with big releases.
+
+One vertical unit of development work may encompass GUI, client, and back-end work—whatever is needed to deliver one unit of value
+to the user. These thin vertical slices are commonly referred to as stories. As product manager, you’ll work closely with your team to
+split your development work into good stories.
+
+Web UI
+Horizontal
+slices
+Vertical
+slices
+Security layer
+Vendor database
+Pick up
+order
+in store
+Ship order
+with UPS
+Pay for
+order with
+Paypal
+Pay for
+order with
+credit card
+The smaller the slices, the better
+
+The smaller we can make a story, the simpler it will be to understand, estimate, implement, and test. We can more easily predict when
+features will be ready to ship. Developers can rotate through the codebase quicker and grow the team’s bus count. Small stories enable
+frequent, tangible progress, which makes the team, the stakeholders, and the product sponsors feel good and means that value is
+delivered quickly to both users and the business.
+
+Continuous prioritization enables agility
+
+Agile/XP teams practice continuous prioritization. That is, although we do look a few weeks ahead to plan our work at a high level, we
+don’t commit to a fixed sprint scope. That’s because we might at any time learn about unexpected changes or new information that
+causes us to reevaluate our priorities. Continuous prioritization enables us to maximize our responsiveness to changing conditions and
+navigate complexity and uncertainty better than if we were to stick to a detailed, upfront plan.
+
+Developers will always pick up and work on the story at the very top of the backlog, so the order of the stories is very important. A
+story’s position in the backlog communicates its priority—the most important stories are at the top of the backlog, whereas less
+important stories are near the bottom. It’s your job as product manager to ensure the order of the backlog represents the latest priority.
+
+Balance value, quality, and constraints
+Lean/agile teams must frequently make tradeoffs between value, quality, and constraints to successfully respond to change.
+
+Making tradeoffs against the right goals
+
+Project management and product management are two commonly
+applied mindsets when it comes to defining software success.
+
+The role of project manager is a tactical one in that they’re responsible
+for achieving a specific, predefined objective by following a plan with
+fixed start and end dates, and a fixed budget. Success in project
+management means delivering on time, in scope, and on budget.
+However, in the context of product development, project
+management aims to solve the wrong problems. Product failure is
+rarely due to schedule slippage or cost overrun. It’s more commonly
+caused by building something customers don’t want, don’t need, or
+that doesn’t create sufficient business value.
+
+This is why the role of product manager is critical to product success.
+Product managers are responsible for defining what the product is
+and for whom, and how the product will drive business impact.
+Success in product management means delivering the right value at
+the right time.
+
+Value, quality, and constraints
+
+Product initiatives have three goals:
+
+Create customer value that drives business impact.
+Build and maintain quality to enable the team to develop, at speed,
+for as long as the business requires.
+Deliver within given constraints around people, time, and scope.
+Companies often want to keep all three of the goals fixed. However, because change is inevitable, this leads to failure—something
+unpredictable happens, the team can’t realize all three goals, and burns out trying. It’s why lean/agile organizations maintain flexibility
+by keeping fixed two goals at most and making tradeoffs when needed.
+
+What is value and why does it matter?
+
+Value is the benefit delivered to customers through the features we build and the business impact created when customers engage with
+the product. Value is measured by what our customers want or desire, and by the KPI we must meet to have a successful business.
+
+To deliver value, we need to do the simplest thing that delights the customer while also enhancing our margin and helping to
+differentiate us in the market. This requires us to know what features to build or not build and to ship new and improved features
+continuously.
+
+What is quality and why does it matter?
+
+Quality is defined as reliability and adaptability. Reliability means that our customers have a consistently good experience using the
+product. Adaptability means that we’re able to keep evolving the product at a predictable pace so that it continues to deliver future
+value. To maintain high quality and a steady foundation, we need to keep both our design and tech debt low.
+
+How should we think about constraints?
+
+Constraints are important, but they aren’t the actual goals of the product. They work as guardrails for the team, establishing clear
+expectations around delivery. Only one of the three constraints—people, time, and scope—can be fixed. In agile organizations,
+it’s usually time.
+
+Value
+Validated, releasable
+product
+Quality
+Reliable, adaptable
+product
+Constraints
+People, time,
+scope
+Successful
+product
+Adapted from Jim Highsmith: Agile Project Management

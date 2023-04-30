@@ -1,0 +1,337 @@
+At Tanzu Labs, we typically manage the product backlog using Pivotal Tracker (Tracker). Built by Tanzu Labs, Tracker is an agile project
+management tool used by more than 500,000 people worldwide.
+
+Why?
+
+Tracker is a simple, story-based, agile project planning tool that enables teams to collaborate and react instantly to real-world changes.
+It’s based on agile software development methods, but it can be used on a variety of projects.
+
+Tracker frees you up to focus on getting things done, without getting bogged down trying to keep your plans in sync with reality.
+Because of its simplicity, Tracker is helpful for illustrating the basics of how stories are used as the key unit for planning and executing an
+agile development team’s work, and many of these same principles can be adapted in other tools.
+
+How?
+
+Tracker acts as the central repository of project activity and also serves as an historical record of development progress. Tracker does
+this with a simple set of organizational constructs, as enumerated in the image to the right:
+
+DONE CURRENT/BACKLOG ICEBOX EPICS
+Show login page 1 Users can register
+2
+3
+4
+5
+6
+7
+Accept Reject
+User story
+A story in Tracker is a description of the deliverable unit of value
+to the user or delivery team. A feature user story is something
+that a user wants to do, like “See activity feed” or “Filter product
+catalogue.” Stories can be grouped together by labels. Tracker
+also defines chores and bugs as different story types.
+Done
+Stories in this section have been implemented by the
+development team and accepted by the product manager.
+Current
+These are stories in the backlog that have been picked up by the
+developers on the team and are in various states of
+implementation. The developers update the story status as they
+start, finish, and deliver the functionality described in the story.
+Tracker calculates the points of all current stories to come up with
+the team velocity metric.
+Accept and reject
+Stories that have been delivered await acceptance by the product
+manager. Functionality that matches the acceptance criteria
+outlined in the story should be accepted. Functionality that does
+not meet the acceptance criteria should be rejected, along with a
+comment explaining what is incorrect or missing. This enables the
+developers to get immediate feedback on a story-by-story basis
+as they deliver functionality.
+backlog
+Stories in the backlog are ready to be estimated (assigned point
+values) or worked on, with clear descriptions and acceptance
+criteria. The story at the top of the list is the next story that will be
+implemented. Stories are prioritized based on what will add the
+most user value.
+Icebox
+Stories in the icebox need more thought and detail before they
+can go into the backlog. The content of the icebox does not need
+to be prioritized.
+epics
+These are larger user stories or themes that are too big to be
+described in a single user story, like “User can register” or
+“Administrator should see user analytics.”
+Story workflow
+Agile development consists of a continuous feedback loop. Each story has a workflow, from conception to release.
+
+Why?
+Agility is the result of frequent feedback. The ability to accept, reject,
+and release stories enables you to give and get feedback from your
+customers, your team, and your stakeholders with every increment of
+functionality as you flow through these steps:
+
+prioritize. After writing stories, the product manager prioritizes them
+in the backlog.
+estimate. The team discusses and collectively estimates the level of
+complexity of each story. If the story cannot be estimated, that may
+be the first indication that the work it describes needs to be broken
+down into smaller stories.
+Start. Developers pick up and begin work on the story when it’s the
+next one at the top of the backlog.
+Finish. The developers commit all code changes to the project
+repository, and finish the story.
+Deliver. The committed code changes go through continuous
+integration testing. Once it passes, the code for the new feature is
+deployed to the team’s acceptance environment, and the story is
+delivered.
+Accept. The product manager reviews delivered stories in the
+acceptance environment, checking against their acceptance criteria.
+If the acceptance criteria are completely met, they accept it; if
+incomplete, they reject it.
+release. The code for the accepted stories is pushed to the team’s production environment, as often as appropriate, where users can
+interact with the new features.
+...and repeat. Based on user feedback, input from the business, and what we learned from our previous product release, the product
+manager determines what to prioritize next.
+Plan with stories
+Knowing what to do next is one of the agile product manager’s most important skills. An effective product plan is made up of many
+small, independent user stories. This allows you to plan and easily respond to change.
+
+The product manager as planner
+
+The product manager is accountable for planning the work efficiently. This means:
+
+Taking a large scope of work and breaking it down into manageable steps to complete it.
+Allowing the team to focus on completing the next priority on the list.
+Seeing the big picture and the progress needed to realize it.
+Knowing how to prioritize, estimate, and organize stories and track team velocity is fundamental to good project planning.
+
+All stories must be prioritized
+
+Guided by input from users, stakeholders, and the development team, the product manager weighs user value, business value,
+development risk, and dependencies against each other to determine the priority of a story.
+
+A story’s position in the backlog makes clear its priority; the most important story is at the very top while the least important story is at
+the bottom. This makes it obvious which task the team will work on next.
+
+Stories’ priorities can change as business priorities change.
+
+START
+DEPLOY
+
+RELEASE
+
+ESTIMATE
+PRIORITIZE
+TEST
+FINISH
+DELIVER
+RE
+JE
+CT ACCE
+PT
+A
+CC
+EP
+T TE
+ST
+NGISED
+DEFINE
+User stories must be estimated
+
+All user stories need to be given a point estimate before developers can work on them. New stories are discussed in the weekly IPM.
+Once everyone understands the purpose of the story and agrees on the simplest way to accomplish it, the team can agree on its size.
+
+Knowing the relative complexity of stories helps the product manager prioritize and set expectations with stakeholders.
+
+For instance, you can decide to prioritize one big story or three small stories—the amount of work would be about the same, but in the
+first case, you’d ship one larger feature, whereas in the second case you’d ship three smaller features. It’s important that the team
+focuses on complexity rather than effort as the points are ultimately a planning tool, not an exact time estimate.
+
+Neither bugs nor chores are given point estimates. The idea is that these two story types emerge over time, and while they do take time
+to address, they’re an ongoing and fairly consistent cost.
+
+Stories can be grouped into epics
+
+A group of stories that represent a larger feature is called an epic. Epics help convey the overall, big-picture priorities.
+
+Velocity is a measure of average delivered story points
+
+Average velocity is an indicator of how many points a team can be expected to deliver in a given iteration. It’s calculated by averaging
+the points delivered in previous iterations. Only completed stories count towards velocity, which is why regular story acceptance is
+important.
+
+When your team gets good at building up features with small, consistently sized stories, it gets better at delivering roughly the same
+amount of work with each iteration. With lower volatility, your team’s velocity becomes a more useful planning tool. Tracker
+automatically projects out the pointed stories in your backlog that will likely fall into future iterations, reflecting past reality and serving as
+informed predictors.
+
+Respond to change
+
+When building software, it’s impossible to gather all the requirements up front. Responding to change requires knowing how to
+reprioritize, reestimate and reorganize stories.
+
+Write user stories
+A user story is a short, simple description of a feature told from the perspective of the person who desires the new capability, usually a
+user or customer of the system.
+
+Why do we care about user stories?
+
+User stories are designed to explain the who, what and why of the smallest incremental feature that can be added to a product. They are
+written from the user’s perspective, explain the incremental business or user value, and act as lightweight requirements documentation
+for a development team. A story is a placeholder for a conversation. After a story is completed, it becomes a view into our conversation
+history and the decisions we’ve made.
+
+Who writes stories?
+
+Although anyone on the team can contribute stories, it’s the product manager’s responsibility to maintain a healthy backlog. They do
+this by writing and prioritizing enough user stories for two weeks of development work.
+
+How?
+
+Although user stories serve as placeholders for conversations with agile development teams, they should nevertheless be written in a
+detailed and consistent manner to help provide the team with the context they need to inform that conversation. These are the key
+components of a user story:
+
+Title
+Should be short and descriptive enough to understand, at a
+glance, the functionality to be enabled with delivery of this
+story.
+Description
+Should explain WHO wants the functionality, WHY they want
+it, and to WHAT end. The clearer this context is for the team,
+the better equipped they are to make decisions and evaluate
+tradeoffs during implementation of this functionality.
+The commonly used Connextra format can be used as a
+starting point to provide this information.
+AS A____________________________
+
+I WANT__________________________
+
+SO THAT_________________________
+
+[ TYPE OF USER ]
+[ SOME GOAL ]
+[ BENEFIT ]
+Acceptance criteria
+Should list the scenarios the product manager will use to
+verify that the story has been completed and enables the
+desired functionality. This is also used as a starting point for
+the developer’s tests, and helps delineate when work on this
+story is “done.”
+The commonly used Gherkin syntax can be used to make
+acceptance criteria and test scenarios clear for everyone on
+the team.
+GIVEN___________________________
+
+WHEN___________________________
+
+THEN___________________________
+
+[ SOME CONTEXT ]
+[ SOME ACTION IS CARRIED OUT ]
+[ SOME CONSEQUENCES ]
+Resources
+Should include all mocks, wireframes, user flows, and other
+assets that help explain the user story.
+1. Salesrep Should Be Able to Download Proposal as PDF
+Add a comment or paste an image
+Attachments
+21 kB pdf
+PDF button on proposal summary page.pdf
+**4. Activity
+
+As a** sales rep,
+I want to download a PDF for a proposal,
+So that I can email it to a prospect
+3. Acceptance Criteria:
+Given I visit the proposal summary page
+When I click the “PDF Download button”
+Then a PDF file is downloaded to my computer
+AS
+pdf
+Post Comment
+Example user stories: good vs. bad
+A backlog of well-written user stories enables the team to focus on doing the work rather than trying to define the work.
+
+Example: Good user story
+
+Sales Rep should be able to download a proposal as a PDF
+Mock_of_pdf_button_on_proposal_page.png (120kb)
+DESCRIPTION
+As a Sales Rep
+I want to be able to download a PDF for a proposal
+So that I can email it to a prospect
+ACCEPTANCE CRITERIA
+Given I visit the proposal summary page
+When I click the “PDF Download” button
+Then a PDF file is downloaded to my computer
+What makes this a good user story?
+
+The title is clear and descriptive
+The user is clearly identified
+There’s a clear beginning and end
+The acceptance criteria satisfy the user’s goals
+There are resources attached that describe all the
+nonobvious details that are important to the user
+and the business
+It represents the smallest amount of verifiable
+functionality that provides incremental value.
+Example: Bad user story
+
+Proposal as PDF
+DESCRIPTION
+As a user I want to be able to save PDFs for a proposal, see
+all PDFs generated for that proposal, and download them
+ACCEPTANCE CRITERIA
+Proposal page includes a list of PDFs generated
+User can generate additional PDFs
+Use can download the PDFs from the list
+What makes this a bad user story?
+
+The title is vague
+The type of user is not clearly identified
+There’s no clear beginning or end
+The user’s goal isn’t identified; we don’t know why they
+want this feature
+The acceptance criteria are written like a set of stories,
+which indicates the story is too big
+There are no resources attached to explain the nonobvious
+details
+Other story types in Tracker
+Chores, bugs and release markers enable you to capture work that needs to get done but doesn’t provide direct value to the user or the
+business.
+
+Chores, bugs and release markers are stories, too
+
+Just like the user story, these story types represent concrete tasks or deliverables. However, because they don’t provide direct business
+or user value, they don’t get estimated. (Learn more on this in “ Run The Iteration Planning Meeting .”)
+
+release marker
+Releases are milestone markers that allow your team to track progress towards concrete goals, such as stakeholder or
+investor demos, software launches, and more. Using these markers, it’s possible to specify target dates for releases. The
+product manager decides how to organize the backlog into releases.
+Chore
+A chore is a story that provides no direct, obvious value to the user, but is needed for product development. Here are
+some example chores:
+Set up new domain and wildcard SSL certificate for test environments
+Evaluate tools for system troubleshooting
+Conduct exploratory testing (this is often referred to as a “charter”)
+Chores can represent “technical debt” and/or points of dependency on other teams. Chores are not estimated, as they
+don’t directly contribute business value. Developers, often in partnership with the product manager, create chores for the
+backlog.
+bug
+A bug is a defect in a feature that’s already been accepted, regardless of when it was accepted. You shouldn’t use bugs
+to detail new features and functionality. Here are some examples of bugs:
+Price should be non-negative
+Login button doesn’t work
+Bugs don’t have points because they’re directly related to features that have already been delivered. A bug description
+should include steps to recreate the bug such that anyone, with minimum context, can see the bug themselves.
+Anyone on the team can create a bug. It’s up to the product manager to prioritize it.
+Know your story makers
+
+User story: The “who,” “what” and “why” of a new feature
+Story points: The estimated relative complexity of a story
+Chore: Tasks that are necessary but don’t add direct or obvious user value
+bug: Tasks that will resolve unintended behavior
+release: A project milestone

@@ -1,0 +1,669 @@
+Your role as product manager
+Product managers, in close collaboration with their teams, help their company ship the right product. Increase your effectiveness in this
+role by familiarizing yourself with the set of tools, techniques, and practices described in this playbook. They’ll help you build products
+by defining and iterating toward the right outcomes, while continuously validating and iterating toward the right solution in a way that
+will enable you to be responsive to changing user demands and market realities.
+
+Articulate the product vision and product strategy
+So that we know why we’re undertaking the effort of building the product, and what our plan for doing so is.
+Pages 13–
+establish an outcome-oriented product roadmap
+So that we have clear outcomes to prioritize our work against, and can communicate to sponsors and stakeholders
+how the product is likely to evolve over time.
+Pages 17–
+establish and track against measurable objectives
+So that we know whether or not we’re on the right path.
+Page 19
+Continually de-risk product direction
+So that we only build the features we should build, based on validated customer problems and business
+opportunities, and increase the likelihood that the product will be successful in the market.
+Pages 20–
+prioritize features
+So that we’re always working on the most valuable thing.
+Pages 28–
+manage the backlog
+So that the product team has a shared focus across tactical design and development work.
+Pages 30–
+Decide when to ship software
+So that we know why we’re undertaking the effort of building the product, and what our plan for doing so is.
+Page 39
+Help the team maintain a sustainable pace
+So that we can go fast forever and not burn out or lose motivation.
+Page 40
+Communicate effectively
+So that the product team, stakeholders, and sponsors are all aligned and we maintain momentum.
+Page 41
+Understand the product vision
+The product vision describes the future we’re trying to create through our product, and how our product intends to contribute to our
+company’s larger purpose.
+Vision
+The product vision describes the WHAt and the WHY. It’s highly aspirational and long term, and as such, realizing it may take several
+years (approximately five or more).
+the product vision is your true north
+The product vision states what the product could ultimately become in support of your company’s overarching purpose. It reflects
+the core values, motivations, and intentions of a team or company. It’s often referred to as a team’s “true north,” in that it defines
+the product’s direction and guides the team’s every decision and action.
+Your product vision should communicate:
+Who you’re creating the product for
+What needs or desires the product will address
+What benefits the product will create
+Why you need a product vision
+Ideation and experimentation alone will not enable us to create great products. Without a vision, we’re left to aimlessly iterate towards
+some unknown destination. If we don’t know where we want to go, how will we know if we’re getting there?
+Your product vision helps tell the story of your product. It explains what you hope to achieve and sets the direction for where you’re going.
+A compelling product vision should accomplish the following:
+Help others understand your product and why it matters.
+Align, guide, and motivate everyone involved to make the product successful.
+Create focus and enable effective collaboration in the midst of rapidly changing conditions.
+Who defines the product vision?
+Depending on how your organization is structured, your product vision might be defined by senior product or business leaders like
+CPOs or CEOs. At a start-up, it might be the founder. At an enterprise, it might be a product owner, director, or VP. If this is the case,
+you need to make sure you clearly understand their vision. Write down what you understand it to be and validate it with them.
+Clearly display your product vision
+Post your product vision somewhere in your workspace where it’s clearly visible to everyone! That way, it’ll be a constant reminder
+of what you’re working towards.
+examples
+Amazon: Our vision is to be earth’s most customer-centric company; to build a place where people can come to find and discover
+anything they might want to buy online.
+LinkedIn: To connect the world’s professionals to make them more productive and successful.
+Spotify: To enable people to have music moments everywhere.
+eXAmpLeS
+
+Amazon: Our vision is to be earth’s
+most customer-centric company; to
+build a place where people can come
+to find and discover anything they
+might want to buy online.
+
+LinkedIn: To connect the world’s
+professionals to make them more
+productive and successful.
+
+Spotify: To enable people to have
+music moments everywhere.
+
+Craft a compelling product vision
+Getting to the right vision statement for your product can be challenging and take some time.
+
+Best practices for creating a good product vision
+
+Keep it short
+It’s important that your product vision is easy to understand, remember, and communicate. Try to keep it to one or two sentences.
+
+Align it with your company vision
+Your vision should clearly communicate how your product will contribute to your company’s larger purpose. If your company has one
+product, then your company vision also makes for a great product vision. If your company has a portfolio of many products, then you
+should align your product vision with your particular business unit or group’s reason for being.
+
+Focus on the user
+The product vision should answer who the product is intended for, what needs or desires the product satisfies for its users, and what
+benefit(s) those users can expect to experience by using the product.
+
+Avoid specific solutions
+Your vision should describe the positive impact your product is intended to have. It shouldn’t explain what your product is or how it
+works—you’ll figure those things out through your product strategy and product roadmap. If your vision makes any statements about
+particular features or technology choices, it will limit you later on, preventing you from being flexible to new information and changing
+circumstances.
+
+make it big and ambitious
+A bold product vision will help you remain flexible in terms of the product strategy you pursue and how. It will enable you to expand
+and develop both your product and your business over time as the market changes, particularly what customers need and want.
+
+be inspirational
+The product vision should be something that people care about and can connect with. If it clearly states the benefits you’re looking to
+create for others, you’re already halfway there. A vision that matters will motivate the team when things get tough, make people excited
+to work on the product, help attract new team members, and connect your product with the right customers.
+
+be unique
+Explain what sets your product apart from other alternatives, and why it matters. This will help you connect with the right customers and
+attract new team members who want to contribute to making the product vision real.
+
+Iterate
+Make sure that even existing products, not just new ones, have a clear vision statement. If your vision stops being aspirational or
+motivational, or if it doesn’t ring true for customers, articulate a new and better vision statement.
+
+Get validation
+It may feel challenging to come up with a good product vision. The more time you spend talking to your customers and users, as well as
+the people running your group or company, the clearer your vision will become. Use their feedback to understand whether your vision
+resonates, and iterate until you get to something that feels right.
+
+Action: Work together with your team to capture your product vision statement. Make sure it’s shared with your team and accessible
+so they can see and refer to it regularly.
+
+Understand the product strategy
+Your product strategy is a high-level plan for realizing your product vision. It defines your path forward by addressing the challenges
+you must overcome and the initiatives you believe will help you do so.
+Strategy
+The product strategy explains HOW we’ll realize our product vision. It might span several years.
+Strategy is the practice of figuring out how to get from here to there
+Product strategy is about figuring out what product to make such that we achieve one or more goals under conditions of high
+uncertainty. Consequently, strategy is also about knowing what not to build, what to say no to, and why.
+Whether you’re part of a large enterprise or a start-up, your
+product strategy should always be in the service of your
+product vision, which provides the context for why you’re
+building the product in the first place. The vision is what
+inspires us and the strategy is what gets us to the vision.
+The product strategy covers a set of answers to questions
+about the path forward:
+Who are your key customers and users?
+Which problems do you intend to solve for your key
+customers and users to realize your business objectives?
+How is your solution different from others?
+Which market(s) will you focus on (vertical
+and geographical)?
+How will you price and market your product?
+How will you measure success?
+Strategy is about making choices around where we should invest
+As product managers, we’re inundated with requests and ideas. How do we know what to say no to? We can’t do everything, because
+the time, money, and resources we have available to invest in our product are finite. Additionally, a product that does everything for
+everyone will do nothing well for anyone—and by the time we launch it, our competition may have raised the stakes beyond our grasp.
+We need some way of knowing that we’re working on the right things and are making good progress towards our vision. A product
+strategy helps us identify the right objectives and decide where to invest to best achieve those objectives.
+Who defines the product strategy?
+It might be you, or it might be your management team—your group/business unit director, or your VP of product.
+“The product strategy is our sequence of products we plan to deliver on the path to realizing the vision.”
+MARTY CAGAN
+Action: Work to articulate and define your product strategy to realize your product vision. Make sure product strategy is shared with
+your team and accessible so they can see and refer to it regularly.
+Where we
+are now
+Our chosen approach
+
+Where we
+want to end up
+(vision)
+What stands
+in between
+ACtION:
+
+Work to articulate and define your
+product strategy to realize your
+product vision. Make sure product
+strategy is shared with your team and
+accessible so they can see and refer to
+it regularly.
+Plan around outcomes, not features
+Your roadmap communicates how you intend to realize your strategy. It aligns the product work to overarching business goals and
+helps communicate the current and future state of your product.
+
+roadmaps facilitate alignment and cross-team coordination
+Your roadmap might be your most important communication tool as a product manager. It creates visibility into your work for people
+outside of your immediate product team. It helps product sponsors, stakeholders like sales, marketing, and customer support, and
+other product teams understand your product vision, your goals, and the steps you intend to take to achieve those goals.
+
+You can and should use your roadmap to help stakeholders, collaborators, and product sponsors understand what’s coming up next
+and to coordinate joint efforts and dependencies with other teams. By clearly communicating your goals and priorities, you’ll help
+surface important conversations early and keep the product work aligned with the needs and priorities of the business.
+
+be stubborn on vision and flexible on details
+If you’ve seen a product roadmap before, chances are you’ve seen a comprehensive plan spanning several years, with detailed feature
+specs, timelines, work estimates, and ROI predictions.
+
+Lean and agile product teams approach product planning differently. No plan survives its first encounter with reality. We learn more
+from building and releasing features than from planning. Additionally, we reduce risk in our deployments by deploying incrementally,
+with smaller net changes. Remember, we work in build-measure-learn cycles! Therefore, we should spread our planning over the
+course of the project instead of front-loading our work with detailed plans.
+
+What matters is that we get to the right place in the end, not that we follow the exact path we envisioned when we set out on our
+journey. Rather than trying to optimize for predictability in an inherently unpredictable world, we optimize for learning and responding
+to change as quickly and cheaply as possible. With the product vision as our true north, we articulate a high-level direction for getting
+to that vision (our product strategy) and define a plan for our immediate next steps (our product roadmap). As we move forward and
+learn more than what we knew when we started, we refine and adjust our roadmap accordingly.
+
+Outcomes matter more than features
+The roadmap should emphasize the results we want to realize—like improved product and business metrics—rather than the features
+we believe should be part of our product. This approach creates agreement on what success looks like while enabling us to be flexible
+in our solution. Being outcome-oriented enables us to iterate towards the best solution as we learn more about the market, our
+customers and users, and what’s technically feasible.
+
+In addition to focusing us on the impact we want to have through our product, an outcome-based approach to planning helps us do
+the following:
+
+Create a shared understanding of why we’re building the product.
+Create alignment among stakeholders, sponsors, and the product team.
+Prioritize feature ideas and requests better, because our team mandate is clearer.
+Feel more engaged in our work by being empowered to solve a problem.
+Figure out which parts of our strategy are working and which are not.
+Create an outcome-oriented product roadmap
+Your product roadmap describes how your product is likely to evolve over time.
+
+Work backwards from your vision and strategy
+
+Your roadmap should consist of sequential goals—your strategy—that help build towards your vision. To define your goals, identify
+the key challenges you need to overcome first. Also look at any known strategic outcomes that have been defined by the business.
+Outcomes are the important and measurable impacts we want to create for our customers and our business, like increased market
+share, more paying customers, or less tech debt.
+
+You should have clarity on the following:
+
+The problems that need to be solved
+How you intend to solve them
+How you’ll know you’ve solved them
+Identify the work that needs to get done first
+
+Once you know your business goals, capture your assumptions about how you might reach those goals. You probably want to identify
+and validate your assumptions about what customer problems you need to solve, the features that solve those problems, how you
+might design and implement those features, the business value the solution would deliver, and possibly also how you’d market and
+operationalize the product.
+
+When you prioritize assumptions to validate product work to execute on, ask yourself the following:
+
+What dependencies do you need to solve first?
+What do you need to learn first? This will help you create a list of learning objectives, features, and activities you believe will help
+make an impact against your business’s strategic objectives.
+Plan across three horizons
+
+To communicate the rough order of your priorities, organize your roadmap into
+three time horizons:
+
+Current: This is work you’re doing now.
+Near term: This is work coming up soon.
+Future: This is work you’re thinking of doing but need to research more.
+It’s most important to have clarity on your first few goals. Your roadmap will
+evolve and change over time, wand the further out a goal
+is, the more it’s likely to change before you get to it.
+
+Roadmap design principles
+
+Communicate the direction you plan to go in to realize your vision.
+Assume uncertainty and change; optimize for learning and responding.
+Frame the work around desired outcomes, not outputs.
+Make sure your roadmap is easy to update and share.
+Action: Create an outcome-oriented product roadmap and make sure you include input from design and engineering. The roadmap
+should also be shared with the team so they can refer to it as they would the vision and strategy.
+
+Current Near term Future
+Example: HomeWiFi’s outcome-oriented product roadmap
+Meet HomeWiFi, a provider of home Wi-Fi systems.
+
+Company vision
+
+HomeWiFi’s vision is to provide a superior in-home Wi-Fi service that just works.
+
+Current state
+
+HomeWiFi targets affluent homeowners who own one or several large properties. Through customer research, HomeWiFi has learned
+that these homeowners want home connectivity with a high level of convenience, reliability, and speed as they use their networks
+primarily for home security and secondarily for communication and entertainment.
+
+HomeWiFi gets a sizable share of its new customers through the third-party installer market. These installers help customers get their
+Wi-Fi network up and running. They also monitor the network post-installation on behalf of the customer to ensure that everything is
+running smoothly. Homeowners often have a long-standing relationship with their installers. They expect a responsive, high-touch
+customer service experience provided directly by their installer, either in person or remotely.
+
+Opportunity
+
+HomeWiFi doesn’t currently offer third-party installers any tools for working with its systems, which makes its systems more challenging
+to install and support, and compromises upper-end installers’ promises to their affluent homeowner customer segment to provide
+superior customer service.
+
+To be more competitive in the upper-end installer market, HomeWiFi has decided to develop an application to help installers
+troubleshoot networking issues.
+
+Product vision
+
+Become the tool that enables HomeWiFi installers to be the smartest and most efficient installers in the industry.
+
+Product strategy
+
+Create a dashboard that enables installers to detect, troubleshoot, and resolve networking issues remotely before the customer notices.
+
+example: HomeWiFi’s outcome-oriented product roadmap
+
+CUrreNt NeAr term FUtUre
+Desired outcomes Installers can solve customer
+issues without making customer
+visits
+Installers do not need to call
+HomeWiFi tech support
+Installers can resolve customer
+issues in under 60 minutes
+Key challenges • Installers cannot reboot
+customer networks remotely
+Installers forget to complete
+their registration process
+- Installers don’t have a way to
+push firmware upgrades to
+nodes
+- Installers forget to complete
+their registration process
+- Installers don’t have visibility into
+historical information about the
+network
+Success metrics 80% of issues are resolved
+remotely
+80% decrease in tech support calls
+from installers
+90% of issues are solved in 60
+minutes or less
+Features (To be defined, designed and
+validated)
+(To be defined, designed and
+validated)
+(To be defined, designed and
+validated)
+Establish and track against measurable objectives
+To know whether we’re on the right track to deliver on our product goals, we need to establish clear objectives and metrics.
+
+Goals change throughout the product lifecycle
+
+Goals have a long time frame, articulate a high-level outcome we strive toward, and may not be directly tangible or measurable. They’re
+our desired outcomes and are often strategic in nature, such as “increase sales” or “keep customers happy.” Your goals will likely
+depend on what stage you’re at in your project and with your product, which in turn will determine what question(s) you’re looking to
+answer. Early on in the product lifecycle, we seek to validate a product. Later on, when we have a validated product, we look to optimize
+our business model as much as possible.
+
+Objectives make goals more achievable
+
+Objectives are the specific, measurable, achievable, and tangible actions we take to realize our goals. One goal can be broken down
+into several objectives, which helps us break down a big challenge into many smaller challenges. A good practice is to make sure that
+your objectives are SMART: specific, measurable, attainable, realistic, and time-bound.
+
+Clear goals and objectives help minimize waste and maximize value
+
+It’s important that we have complete clarity on why we invest time in various activities, such as talking to customers, exploring
+technology X, or building feature Y. Everything we spend time, money, and effort on tries to help us realize an important objective.
+
+Metrics enable us to track progress
+
+Metrics are numbers that define standard measurements that are important to us. Metrics that help us assess how well we’re doing
+against key business objectives are called key performance indicators (KPI). It’s important to take note of your baseline metrics before
+making any changes so that you can compare the before and after or run split tests.
+
+Beware of vanity metrics
+
+Good metrics are actionable, which means they do one or more of the following:
+
+They tie back to specific and repeatable tasks that you can improve upon, and to your product and business goals.
+They’re expressed as a ratio of two things, like the percentage of users who make a purchase.
+They have a time component, which enables you to see change over time so that you know whether you need to take action.
+Vanity metrics are numbers that tell us about the current state and often make us feel great because they are big, but offer no insight
+into how we got to where we are or what to do next. Examples include total number of visitors and total number of downloads.
+
+Tying it all together
+
+example: Online retailer
+
+Goal: Improve customers’ satisfaction with our site experience
+Objective: Improve site performance
+KpI: Increase site availability measured over the last month from 97.5 percent to 99.5 percent
+example: Online media property
+
+Goal: Improve profitability
+Objective: Increase banner ad revenue
+KpI 1: Visitor loyalty (average number of returning visits per month)
+KpI 2: Clickthroughs (average number of banner ad clicks, per user, per month)
+example: On-demand car service
+
+Goal: Create a mobile app customers love
+Objective: Become a top-rated app (i.e., greater than 4.5 stars) in the iOS App Store
+KpI: Average iOS App Store rating
+Action: Define and add Goals, SMART objectives, and KPI at each time horizon of your outcome-oriented roadmap. This will help the
+team focus their efforts appropriately.
+
+Continually de-risk product direction
+We’ll have many ideas for our product. How do we know which ones are good and which are bad?
+
+Untested assumptions create risk
+
+Before executing on product ideas, teams should clarify their thought process and test their ideas so that they move forward with
+confidence. An untested assumption is something that a team believes to be true without corroborating evidence. Moving ahead
+without validation is risky for the team because it could lead to wasted effort. We need to answer some important questions before
+we’re ready to build a product.
+
+Uncover risks with these questions
+
+product risks
+
+Do we have a meaningful problem to solve?
+Can we validate a minimum viable solution that people find useful?
+Can we scale that solution?
+Customer risks
+
+Are there enough people who experience this pain point?
+Can we effectively reach these people?
+Can we effectively reach these people at scale?
+business risks
+
+Will a sufficient number of people pay enough for the product?
+Can we define cost and revenue structures that enable us to have a sustainable business?
+technology risks
+
+Can we implement the solution well?
+Can we maintain and continue evolving the product over time?
+team risks
+
+Can we take action and move forward effectively? Do we have access to users? Do we have access to the business context we need?
+Can we ship to production? Can we maintain a sustainable pace as a team?
+Do we have a clear shared focus, so that we can move quickly and do the right thing?
+Do we have the right skills and perspectives available and access to all the inputs we need to make good decisions?
+Our initial attempts to answer these questions are assumptions until proven valid through empirical data. It’s when we make product
+decisions based on assumptions—rather than on careful analysis of data—that we accumulate risk.
+
+How do we de-risk our product?
+
+Generally speaking, we want to do the following:
+
+Validate a meaningful problem. This is a need or desire that’s strongly felt by a sufficient number of people.
+Validate a solution that is feasible, desirable, and viable. This is a way to address the need or desire such that people are satisfied,
+and will pay for it.
+Validate a viable business model. This is a plan for building, providing, and maintaining the product in a way that makes money.
+To achieve these goals, we have to continuously prioritize our riskiest assumptions, design and run experiments, analyze the experiment
+data, and determine whether our assumptions were validated or invalidated.
+
+Action: Articulate and prioritize the riskiest assumptions that could derail your efforts, adding them in alignment with your roadmap time
+horizons. Track whether these assumptions are tested and validated (or invalidated) and use these learnings to adjust your plans
+whenever necessary.
+
+Create a lean canvas
+The lean canvas helps us stay disciplined when it comes to documenting and validating our riskiest business model hypotheses.
+(Source: https://leanstack.com/lean-canvas )
+
+The product is only one component of a successful business
+
+It’s important to remember that your product alone doesn’t make for a successful business. You also need to ensure the product is
+driving business impact. The lean canvas helps us capture and systematically mitigate the riskiest aspects of creating a business. Think
+of it as a topographical map for developing and validating a business plan. It’s an important tool to help us stay aligned around what a
+successful business looks like.
+
+The lean canvas was developed to help entrepreneurs define new products. It can also be used to clarify how an existing product drives
+business impact, and where there may be opportunities for optimization.
+
+Components of a lean canvas
+A lean canvas consists of a number of key components:
+
+problem: Our customers’ top three underserved or unaddressed needs
+Solution: The top three features we believe will address our customers’ problem
+Key metrics: The key activities we measure
+Unique value proposition: A clear and concise message that states how we’re unique and worth engaging with
+Unfair advantage: Something we have that can’t be easily bought or copied
+Channels: Our path to our customers
+Customer segments: Our target customers
+Cost structure and revenue streams: How we plan to spend and make money
+Problem
+Existing alternatives
+List your top 1-3 problems List your top 1-3 problems
+Single, clear, compelling message
+that states why you are different
+and worth paying attention to.
+List your X for Y analogy (e.g.
+Youtube = Flickr for videos).
+Something that cannot be
+easiy bought or copied
+List your target customers
+and users
+List the characteristics of
+your ideal customers.
+List your sources of revenue.
+List how these problems
+are solved today
+List your fixed and variable costs.
+High-level concept Early adopters
+Solution Unique value
+proposition
+Cost structure Revenue streams
+Unfair advantage
+List the key numbers that tell
+you how your business is doing.
+List your path to customers
+(inbound or outbound).
+Key metrics Channels
+Customer segments
+The product development cycle
+We use a “build-measure-learn” feedback cycle to continuously turn uncertainties and assumptions into facts. Starting with ideas, we
+identify our riskiest assumptions, build simple tests, run those tests, analyze the test data, and then use what we learn to inform our next
+steps. In other words, we don’t treat product definition, design, development, and testing as separate phases. Instead, we do all of
+these activities in parallel via short and frequent cycles throughout the product lifecycle.
+
+Lea
+rn
+B
+u
+il
+d
+M
+ea
+su
+re
+The
+feedback
+loop
+Learn from data analysis whether to pivot or persevere
+ACTIVITIES:
+Validate or invalidate the riskiest assumptions about personas, choose the top problems
+to solve review existing soltions, test the desirability of a solution, determine the feasability
+of a solution, assess the viability of the product, review the sustainability of the business
+model, optimize that business model
+Build small and simple tests to collect metrics
+ACTIVITIES:
+Interview scripts, value propositions, prototypes, minumum viable products, usability tests
+Measure test results
+ACTIVITIES:
+Customer observations and interviews, split tests, real-time monitoring, funnel analysis,
+cohort analysis, search engine marketing
+Why?
+
+We work within this cycle to reduce the risk of spending time, money, and effort building software that delivers no meaningful or
+impactful value to the business or the user.
+
+Measuring progress
+
+We look at two things to determine if we’re making progress:
+
+Validated learning, which removes the risk in our product and business.
+Working software, which delivers value to our customers, and thus to our business.
+Risk increase without
+user validation
+Risk stays low with
+frequent validation
+Product risk over time
+Risk from building wrong stuff
+Time spent building stuff
+Test your leap-of-faith assumptions
+It’s no longer good enough for a product manager to say, “I think users want this feature.” Instead, you need to ask, “What outcome do
+we predict this feature will have?” and validate your answer with empirical data.
+
+Hypothesis-driven management
+
+Hypothesis-driven product management is the practice of treating the development of new products as a series of experiments. Instead
+of formulating requirements, we formulate hypotheses along with some validation criteria that state how strong of a signal we need to
+consider the hypothesis to be true. We use what we learn from each experiment to iterate on our ideas until we get where we want to
+go, or until we determine that the product isn’t viable and cancel the effort.
+
+Leap of faith assumptions
+
+These are the riskiest assumptions we make about our idea; if we get them wrong, our product will fail. Our riskiest assumptions should
+align with the business outcomes or product goals we’re working toward. By identifying our riskiest assumptions early and testing them
+through experiments, we dramatically reduce the uncertainty associated with our product ideas. Instead of trying to get it right from the
+start, we try to get it right one small piece at a time. We test our risky assumptions systematically in order of potential impact:
+
+problem/solution fit: Have we found a problem worth solving? Can we solve it?
+product/market fit: Have we built something the market wants?
+Scale: Have we found a sustainable business model?
+Experiments test our assumptions
+
+A lean experiment is the smallest experiment we can run to quickly test our assumption. We start small and fast and then increase the
+scale and scope of our experiments over time. An experiment consists of three parts: a hypothesis, a test, and validation criteria.
+
+The hypothesis is a falsifiable version of our assumption. Remember to make sure you’re only testing one variable in each hypothesis;
+otherwise, you won’t get reliable data.
+
+The test is how we intend to validate our hypothesis, proving it to be true or false.
+
+The validation criteria is the evidence we need to consider the hypothesis true.
+
+Experiment template
+
+Hypothesis
+We believe that will result in .
+
+test
+We’ll do/make .
+
+Validation criteria
+We’ll know that our hypothesis is valid if we observe/measure .
+
+Validation criteria
+
+You need to determine how much evidence is enough for you to consider an assumption validated. Here are some general rules to
+consider:
+
+During discovery, talk to as many people as possible.
+During usability testing, five people will help you identify 80 percent of the issues.
+If your organization is new to hypothesis-driven product development, define your validation criteria based on what you need to feel
+confident to justify the product decision.
+Example: A lean experiment for HomeWiFi
+HomeWiFi has identified an initial set of leap-of-faith assumptions. It decides to test the following assumption first because it believes
+this assumption poses the greatest risk to the success of the installer dashboard, if proven invalid.
+
+Leap-of-faith assumption: Customers feel comfortable sharing ownership of their networks with their
+installers
+
+Installers currently use a customer-facing app to install new Wi-Fi networks. The installers will typically make themselves the owner of a
+customer’s network and maintain that ownership post-installation, which ensures them continued access so that they can monitor and
+troubleshoot the network on an ongoing basis.
+
+Because the installer accesses private network data without receiving explicit permission from the customer, however, a big privacy
+issue is created.
+
+In order to give installers what they need to provide the best possible service—reliable access to the customer’s network—while also
+giving the customer what they need to feel safe regarding who has access to their data—the ability to grant and revoke network
+access—HomeWiFi must validate its assumption that customers are willing to share network ownership with their installer.
+
+HomeWiFi plans to test this assumption twice before building the new installer dashboard app. It will first test it without building any
+software at all (Lean experiment 1). Assuming the first experiment passes its validation criteria, HomeWiFi will run a second
+experiment in which it builds a new feature in the consumer app (Lean experiment 2). these experiments will enable HomeWiFi to
+test a core assumption relatively quickly and cheaply.
+
+Lean experiment 1
+
+Hypothesis
+We believe that giving homeowners the ability to share network
+access will result in an increase of network ownership transfers
+from homeowner to installer.
+
+test
+We’ll continue to use the consumer app to install new customers’
+networks, and while doing so, ask the customer if they agree to
+transfer network ownership to the installer (without building any
+new features for this in the app).
+
+Validation criteria
+We’ll know that our hypothesis is valid if 90 percent of customers
+agree to transfer network ownership to the installer during
+network installation.
+
+Lean experiment 2
+
+Hypothesis
+We believe that giving homeowners the ability to share and
+revoke network access will result in an increase of network
+ownership transfers from homeowner to installer.
+test
+We’ll enable customers to receive and approve/reject ownership
+transfer requests from their installer via the customer app.
+Validation criteria
+We’ll know that our hypothesis is valid if 90 percent of customers
+transfer their network ownership to their installer during network
+installation and 75 percent of customers maintain shared network
+ownership with their installer one month post-installation.

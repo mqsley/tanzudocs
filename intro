@@ -1,0 +1,152 @@
+Welcome, product manager!.
+Working as product manager in a software development team is a multifaceted and challenging role.
+
+VMware Tanzu Labs is here to help you and your team build products that deliver meaningful value for
+
+your users and your business.
+
+Whether you’re a seasoned veteran, a first-time product manager, working in an enterprise, or working
+
+in a start-up, this playbook will help you get a sense of the roles, tools, patterns, and methods that lay
+
+the foundation for a healthy, sustainable, lean, and agile product development practice. Tanzu Labs
+
+has over 20 years of experience enabling clients in these practices.
+
+When partnering with Tanzu Labs, our clients are committing to work with collaborators rather than
+
+contractors. Together, we build software based on continuous input. Clients maintain full control of
+
+product direction, feature prioritization, and release timing. Tanzu Labs practitioners do the following:
+
+Show clients how to continuously keep product and business risk low by identifying risky assumptions,
+while gathering and analyzing qualitative and quantitative data to help inform product decisions.
+
+Help clients balance business goals against both user needs and desires, as well as technical feasibility,
+so that the team regularly ships features that have an impact.
+
+Show clients how to set goals and structure regular meetings to ensure fluid communication among
+developers, designers, stakeholders, and sponsors.
+
+Help clients break down big ideas into manageable pieces, establish a reliable way to estimate
+features, and ensure a predictable cadence of small and frequent releases.
+
+Encourage the entire project team to provide regular feedback and self-reflection on process
+and performance, which will drive continuous improvements in efficiency and increase happiness.
+
+What clients should expect during a project with VMware Tanzu Labs
+
+Learn by doing
+We teach by showing, rather than by telling. In the beginning, we’ll lead, but will coach you so that you can take over in short order.
+
+Sit with your team (or, remotely sit with your team)
+Co-location or having shared virtual space is crucial to faster feedback loops. By being together with your team physically or remotely,
+you’ll be able to continuously answer questions your team encounters along the way.
+
+Collaborate constantly
+We believe that the best products are informed by diverse perspectives. You’ll be partnering with developers, designers, and business
+stakeholders to inform your product decisions.
+
+Own the product
+It’s your responsibility to validate product features and design, collect, and prioritize input to inform product decisions, write stories,
+maintain the backlog, and help run meetings.
+
+Go at a sustainable pace
+Healthy product development is a marathon, not a sprint. By maintaining a 40-hour workweek, we keep a sustainable and predictable
+pace that helps us continually ship value quickly.
+
+Lean on us for help
+You’ll work closely with your Tanzu Labs product manager. When in doubt, lean on us!
+
+Tanzu Labs’ approach to modern product development
+Our approach to product development is informed by more than 30 years of experience and continuous improvement.
+
+We blend values, principles, and practices from three schools of thought:
+
+Lean startup
+User-centered design (UCD)
+Agile/extreme programming (XP)
+Additionally, we apply these philosophies within the structure of a “balanced team.”
+
+Tanzu Labs didn’t invent these philosophies; we have many individuals and teams to thank for sharing and refining these ideas. We
+have, however, developed our own approach, tools, and platforms to enable these practices. Taking aspects of each philosophy, we
+combine and apply them using discipline, empathy, humility, curiosity, and a strong bias to action. We’ll work closely with you to figure
+out how to adapt these methodologies for your organization. Our approach is always evolving as we continue to uncover new and
+better ways of building great software. What follows is a quick primer on product development, which will help you understand how we
+work.
+
+Lean startup
+
+Lean startup is an approach to developing businesses and products in environments with high uncertainty and change.It was created by
+entrepreneurs Eric Ries and Steve Blank. The two based their ideas on lean manufacturing, which was popularized by Toyota as a
+means of minimizing waste and maximizing productivity.
+
+Most products fail because they’re based on flawed assumptions about user needs. Lean startup emphasizes investigating and
+validating assumptions around what customers really need and meeting those needs with as little time, effort, and money as possible.
+Customer feedback is vital during product development. It ensures that we don’t build products that customers don’t want. The lean
+startup approach also borrows from the scientific method; it assumes we don’t know something to be true unless we gather the
+evidence to validate our belief. (Source: Eric Ries, The Lean Startup, Crown Publishing, 2011.)
+
+Common practices
+Minimum viable product (MVP), assumptions, continuous deployment, actionable metrics, pivot or persevere, build-measure-learn
+cycles, lean canvas, CI/CD
+
+User-centered design
+
+User-centered design (UCD) is a product design philosophy that emphasizes designing the product around how the user can, wants,
+or needs to use it, rather than seeking to change the user’s behaviors to fit the product.
+
+We consider a user’s needs from the very beginning of the product cycle and continuously validate our assumptions about their
+behaviors and problems. Using investigative methods like ethnographic study, contextual inquiry, and prototype testing, we validate
+and refine our understanding. The whole user experience is considered; we seek to understand the user’s full context rather than just
+the task(s) they would complete by using the product.
+
+We conduct the design work iteratively, testing and evaluating design options early and often. Users are directly involved in the design
+process. Through observation and interviews, we seek to gain empathy for our users’ goals, and use what we learn to ideate and
+evaluate design options and to inform design and development decisions.
+
+Perhaps the most influential writing done on UCD is Don Norman’s The Design of Everyday Things (Basic Books, 2013) and Jeff Gothelf’s
+Lean UX (O’Reilly Media, 2016).
+
+Common practices
+User interviews, personas, scenarios, think-make-check cycles, rapid prototyping, assumptions, validation, MVP
+
+Agile/XP
+
+Agile is a set of values and principles that enable teams to develop software with agility. Agile teams are quick, flexible, and responsive
+to change, without sacrificing quality. Although there are many implementations of this methodology, most use collaborative,
+cross-functional, and self-organizing teams to deliver software in an incremental and iterative way.
+
+Extreme programming (XP) is a specific set of practices that implement agile values and principles. It was created by Kent Beck, author
+of Extreme Programming Explained: Embrace Change (Addison Wesley, 1999).
+
+XP enables teams to write high-quality software, ship it often and predictably, and be responsive to change. It’s a strategy to help teams
+go fast, forever. XP is also a system—we only get to experience its full benefits when we implement all of its practices. That’s why it’s
+called extreme programming!
+
+Common practices
+Pair programming, test-driven development (TDD), refactoring, collective code ownership, delaying decisions until the last responsible
+moment, expecting changes in requirements, frequent communication, small and frequent releases
+
+Note: If there’s a term here that is new to you, there’s a good chance you’ll find a definition for it in the glossary at the end of this guide.
+
+Balanced team
+
+Our product teams are small, co-located or remote, and multidisciplinary. They are organized around goals established by the product
+sponsor(s) and are empowered to define and iterate on solutions that deliver against those goals. They’re also empowered to talk to
+customers, make product decisions, and push code to production. By virtue of sitting next to each other or sharing virtual space, team
+members constantly communicate and collaborate with one another. Teams are focused on delivering customer value through working
+software in small, iterative releases, and are self-organizing in that they can adapt common tools and practices to what works best for
+all members. Communication among team members tends to be informal, favoring spontaneous conversation over lengthy meetings.
+
+The concept behind this approach is what’s known as a “balanced team.” It was created by a group of passionate agile practitioners
+who sought to better blend together agile, UX, and other product disciplines. Early proponents of the balanced team concept include
+Jeff Patton, David Hussman, Desiree Sy, Jared Spool, and Lane Halley. Former Pivotal employees Janice Fraser and Tim McCoy were
+early participants, and Tanzu Labs hosted one of the first balanced team retreats.
+
+Though each project varies, the typical balanced team mix includes a Tanzu Labs product manager, product designer, and engineer
+matched with full-time client counterparts. When we work within the construct of a balanced team, we ensure that all of these
+perspectives blend into and inform each other so that we build products that are desirable, usable, feasible, and viable.
+
+Common practices
+Shared vision, physical co-location, pairing across functions, scaling the team up/down based on what the product needs

@@ -1,0 +1,197 @@
+Run the iteration planning meeting
+The iteration planning meeting (IPM) is core to our agile development practice and provides the opportunity for product managers to
+communicate the vision for the upcoming iteration.
+
+Frame the conversation
+
+Establish the theme of the next iteration, and tie it back to product and project goals. For example, “Just to reiterate, last week we
+focused on making our site more mobile friendly, and this week we’re going to revisit the sign-up flow with some improvements. This
+will help us convert more people coming in from our new mobile marketing campaign.”
+
+Clarify the stories
+
+Start by looking at any stories still in progress from the last iteration, along with any pertinent information about features just finished.
+This should be a quick process (i.e., fewer than 10 minutes) to jog everyone’s memories and ground them in the work that’s coming up.
+
+Starting at the top of the backlog, step through each story. Talk through the user-facing value of a feature, and ensure that any comps,
+wires, assets, flows, and data are attached to the story. Clarify any acceptance criteria and add any clarifying notes that may be needed.
+The goal here is to be crystal clear on when a feature is “done-done.”
+
+Run a complexity check and estimate
+
+Each developer that could work on a story should provide an estimate of the story’s complexity in a number of points. If the
+implementation is not clear, they should have time to talk through approaches during the IPM. That said, their role is to nail down a level
+of complexity, not pin themselves to a specific technical implementation in this setting. Based on the estimated size or developer
+feedback, stories can be nominated for merging or splitting up. If that’s the case, capture the pieces of work as placeholders and update
+them with details after the IPM.
+
+Pay down debt
+
+A healthy development process will incorporate refactors and tackle technical debt in concert with new user value. In addition to explicit
+tech debt chores, product managers and developers should look for opportunities to wrap this work into feature development. For
+example, if a story calls for adding a field to an existing form, you should consider also cleaning up the logic that delivers form validation
+errors.
+
+Estimate stories out to two iterations, max
+
+Tracker will group stories into iterations based on the team’s historical velocity. You should only step through stories until you’ve got
+two iterations’ worth of estimated work. Keep the visibility to two weeks so you’re able to cover for any quicker-than-intended delivery
+of features, and limit the IPM to a reasonable amount of upcoming work. It’s taxing to keep the mental inventory of features in your
+head; sticking with the short-term future focuses everyone on the team around tangible new features.
+
+Keep it short and sweet
+
+Once you reach the one-hour mark in an IPM, as with many meetings, people zone out and business owners get antsy about the emails
+they’re missing (or worse, they whip out their phones). When you have a large team, it’s especially important to play time cop. If you
+don’t have a healthy backlog and find yourself with a lack of new work, end the meeting. It’s far better to hold an additional IPM two
+days later than to suffer the pain of making up stories in real time!
+
+Decide when to ship software
+The more often we ship, the more often we deliver concrete value to our customers and validate our product strategy.
+
+Ship early and often
+
+The ultimate goal of any product team is to ship the right working features to users. It’s not until our customers interact with our features
+that we truly know whether we built the right features and designed and implemented them well.
+
+User testing that doesn’t put software into the hands of real users limits what we can learn. Working software can help answer questions
+like, “Have we built enough? Are we focusing on the most important feature first? Are we likely to hit the key performance indicators
+that the business believes we’re going to hit?”
+
+We want to keep this feedback loop with our users as short as possible so that we can continuously validate our product direction.
+Should we go deeper on features we have, or go wider on new features? We want to release the smallest thing possible that—in light of
+user value, business objectives, and technical constraints—will provide data showing what our users find valuable, which will then inform
+our work.
+
+We also want to make our releases as easy and cheap as possible. If releases are risky, expensive, and cumbersome, we’ll push them
+off, and only be able to release occasionally. A repeatable, regular, successful, reliable, and cost-effective release process is critical to
+our ability to continuously deliver small chunks of value. Frequently releasing thin slices of our product enables us to easily roll back any
+changes, and to debug issues quickly.
+
+Can we ship?
+
+Because our ability to ship depends on our delivery infrastructure and the quality of our code, whether or not we can ship is a technical
+decision. Our ideal state is to always be able to ship so that we can release new features whenever it makes sense to do so from a
+business perspective.
+
+Our ability to ship is impacted by a number of factors:
+
+Code quality
+Test coverage
+Our knowledge of what’s needed to deploy code to production
+Story size and quality
+Should we ship?
+
+The decision to release should come from the business. We need to weigh the user value we can deliver right now against the cost and
+risk of shipping. We do this by gathering input around the following:
+
+User needs: How urgently do users need a new feature or refined feature design?
+
+Stakeholders: Are marketing, sales, customer service, and other teams ready to support the features we want to ship?
+
+Other product teams: If we depend on other teams’ services being in production before we can release, we need to make sure those
+services are ready for us to use.
+
+release size: The bigger the release, the riskier it is.
+
+How manual our process is: The more manual the process, the more expensive it is.
+
+Delivery infrastructure: How easy is it to push code to production?
+
+What’s the path to production?
+Be proactive about understanding and satisfying the requirements for reaching the production environment in your organization. This
+may take longer than expected and become a blocker for the team.
+
+Help establish a sustainable pace
+To deliver value fast forever, we need to make sure we’re running at a comfortable marathon pace rather than rushing through a series
+of high-intensity sprints.
+
+Let’s go fast, forever
+
+Keeping a sustainable pace is a core tenet of XP. It states that the team should aim to establish a work pace that they can sustain
+indefinitely. This enables teams to build better software, ship it in a predictable manner, and do so with regularity.
+
+Tanzu Labs communicates its belief in sustainable pace by encouraging teams to establish core hours (typically starting at 9 AM and
+ending at 6 PM sharp for co-located teams) with a full one-hour lunch break. Team stand-ups and other ceremonies should only be
+scheduled within core hours, and regular breaks throughout the day are encouraged to help everyone refresh between bursts of highly
+focused activities.
+
+More hours, more problems
+
+We believe that building a product is a marathon, not a sprint. We don’t do “crunch time” at Tanzu Labs. We believe that putting in
+significant overtime is detrimental to work quality, team productivity, and team health.
+
+Willpower is a depleting resource. If we don’t replenish it with sleep and sufficient downtime, our discipline and work suffer. Long hours
+lead to burnout and poor decision-making. A developer who stays up late to code a feature will realize the next morning that they’ll need
+to rewrite it all. Even if the code is good, working late without the rest of the team reduces shared ownership of the project by creating
+knowledge silos. Working just 8 hours a day at full intensity will produce better results than working extra hours on a regular basis.
+
+We believe that Tanzu Labs teams get more done by identifying and minimizing any nonproductive activities during the workday, as it
+allows them to focus on value-generating activities instead. Hours spent don’t matter if we focus on maximizing the value we produce.
+Many clients report being exhausted after their first week on a product team with Tanzu Labs—that’s what happens when you get an
+uninterrupted 8 hours a day to work!
+
+Product managers play a critical role in maintaining a sustainable pace by prioritizing the right product and business goals and
+communicating with the right stakeholders to ensure that whatever is delivered isn’t a surprise. This means conducting regular
+stakeholder check-ins and demos as needed, maintaining an up-to-date product roadmap, and creating consensus with the business to
+avoid scope creep and “crunch time.” Product managers should also lead efficiency-improving activities such as removing team
+blockers, eliminating unproductive meetings, and boosting team morale. Think outside the box for how you can contribute to a
+sustainable pace and team happiness—no team ever complains when their product manager surprises them with donuts!
+
+Start 2 weeks 4 weeks 6 weeks 8 weeks
+Productivity 40 hours per week
+(steady productivity)
+40 hours per week
+(steady productivity)
+Communicate effectively
+To launch successful products, you need to build a shared understanding with your team, your stakeholders, and your sponsors of the
+what, when, who, why, and how of the product and each iteration of it.
+
+Strong communication skills help you lead without authority
+
+You’ll be championing your product to sponsors within your organization, making tradeoffs with stakeholders and other product teams,
+and facilitating the making of daily, tactical decisions within your own team. You’ll need to inspire trust as well as motivate and influence
+all parties to help you and your team bring a successful product to market. The strength of your communication skills will determine how
+well you’ll be able to develop the credibility and strong relationships needed to do so.
+
+Stakeholders: Functional teams such as legal, security, sales, and marketing will want to know that you understand their needs and how
+your product supports their goals. For instance, marketing will want to know how your product will drive leads, and sales will want to
+know how your product will help close those leads.
+
+Sponsors: Executive sponsors will want to know how your product will increase the bottom line. Share with them the strategic objectives
+and KPI you’re working toward, and once launched, document and share with them the business impact the product is having.
+
+Core team: Create pathways for short feedback loops amongst core team members. Make sure you’re responsive to your team’s
+communication needs by being present and available. Share incoming information from sponsors and stakeholders quickly and as
+appropriate—shield the team from information overload while making sure they have the information they need to do their work.
+
+Others: Your team may be taking a very different approach to working than other teams in your organization. Help your colleagues
+understand how being lean/agile/user-centered impacts the cadence, needs, health, and success of your product and your product
+team.
+
+Tips for effective communication
+
+There are a number of ways to communicate effectively that are especially important as a product manager.
+
+tell a story. Why does the product exist? Why does it matter? A compelling product story will make the product feel real and create an
+emotional bond, which will inspire others to invest in its success. Use anecdotes, user journeys, prototypes, videos, and other artifacts to
+help tell your product’s story.
+
+explain the big picture. Share the vision, strategy, and roadmap. Help everyone involved understand what outcomes you’re working
+toward and how you’ll know that you’ve succeeded.
+
+be believable. When you communicate product decisions, make sure you do so with logic, empirical evidence, enthusiasm, and a focus
+on driving business impact by satisfying customer needs and desires. Let product designers and anchors communicate the rationale
+behind their design and technical decisions, respectively.
+
+Adjust the message and content to your audience. Tell them only what they need to know to make a decision or take an action.
+
+be honest. When new information arrives that necessitates a shakeup of the product plan, you must have the courage to recognize any
+issues, communicate new data and insights back to the team and the product’s stakeholders, and facilitate the creation and
+implementation of a new plan.
+
+be proactive. To build trust with stakeholders and collaborators, share updates with them proactively. Don’t wait until the last minute or
+when you need something to reach out.
+
+Listen well. Be as interested in learning from others as you are in sharing with them. Active listening will help you build stronger
+relationships and may also help you gain new insights that improve your product.

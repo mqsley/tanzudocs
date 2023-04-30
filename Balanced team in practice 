@@ -1,0 +1,33 @@
+To build a successful product, we need to answer three questions:
+
+Will it solve users’ problems?
+Will it help our business?
+Can we build it well?
+Lean startup, user-centered design, and agile/XP help us identify the best answers to these questions. When we work within the
+construct of a balanced team, we ensure that all of these perspectives blend and inform each other.
+
+Desirability: Will it solve users’ problems?
+
+The product should be something that users want and that solves real problems. A designer’s primary question is, “How is the user
+affected?” More than anyone else on the team, designers help us answer these fundamental questions: “Is this a problem worth solving
+for users?” and, “Does this design solve the problem?”
+
+Caution: If designers become too focused on user needs and cannot connect with business needs and technical feasibility, they’ll focus
+on solution ideas that can’t be implemented or won’t deliver a return on investment.
+
+Viability: Will it help our business?
+
+The product has to support a sustainable business model. The product manager’s primary question is, “By solving these specific user
+problems with these specific solutions, are we creating valuable user and business outcomes?”
+
+Caution: If product managers become too focused on the business and cannot connect with users, they’ll likely focus on solutions that
+don’t solve any real needs, and thus don’t get used.
+
+Feasibility: Can we build it well?
+
+Product implementation has to be feasible and robust. Engineers’ primary question is, “What technical implementation will best satisfy
+the project and product goals?” Engineers help us debate the feasibility and merit of potential solutions while remaining mindful of
+technology constraints.
+
+Caution: It doesn’t help for engineers to come up with feasible solutions that don’t solve problems for users; that’s not developing good
+software. And if we home in on a solution that’s desirable and viable yet not feasible, we’ve failed.

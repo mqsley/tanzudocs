@@ -1,0 +1,49 @@
+Balanced team roles
+Team makeup and size can vary between product teams. What’s important is having the right balance of skills and perspectives to make
+informed product decisions.
+
+Your role as product manager
+
+The product manager leads a team to discover and deliver a product that creates meaningful value for their company and users. You’ll
+facilitate decision-making in service of shipping successful features. To do so, you’ll need to clearly understand who your users are and
+what they need, what impact the business expects from the product, and who your stakeholders are. You’ll also need to collaborate
+closely with your team.
+
+Tanzu Labs product manager pair
+
+In Tanzu Labs projects, we pair client product managers with a Tanzu Labs product manager who will guide and support the client
+product manager throughout the project. This pairing partner helps client product managers understand their role on a balanced team
+and learn how to take a lean/agile approach to product management. By applying the “I do, we do, you do” approach over the course
+of the project, client product managers will gradually take the lead, with the Tanzu Labs partner transitioning to a supporting role.
+
+Other roles on your team
+These are the most common roles you’ll see on a balanced team. However, your team’s roles may differ slightly depending on
+your product.
+
+engineers
+Engineers implement stories from the backlog. They also assist with story estimation in the iteration planning meeting. Engineers guide
+the implementation and help you understand the technical implications of product decisions. You’ll help them gain an understanding of
+what product success looks like, and work together to validate your backlog’s prioritization.
+
+Anchor
+One engineer is designated as the anchor. The anchor ensures that the team makes sound technical decisions, that engineering
+practices are healthy and appropriate, that new and junior engineers get up to speed quickly, and that the engineering team
+collaborates well with product management and design. The anchor also ensures that the team collectively owns the codebase and
+understands the engineering decisions that are made. You’ll collaborate more closely with your anchor than with the other engineers
+on your team.
+
+Designer
+Designers deliver value in the form of design decisions. Their job is to deeply understand the users in order to define solutions that
+are desirable, useful, and usable. You’ll work closely with your designers, pairing on user research to validate critical user and solution
+assumptions before adding development work to the backlog.
+
+Delivery lead
+Each team has a Tanzu Labs delivery lead. The delivery lead is responsible for the client relationship and the overall success of the
+project from the perspective of both the client and Tanzu Labs. If needed, the delivery lead also helps to unblock the team and
+provide day-to-day support.
+
+Stakeholder and collaborators
+We often work closely with marketing, compliance, risk, infrastructure teams, legal, and other stakeholders. A good general rule
+for groups like this is to assign a point person, establish a regular touchpoint, and provide visibility into each other’s roadmaps
+and/or backlogs with some ability to influence them. If it makes sense, we make members of these groups co-locate with us on
+our balanced team.

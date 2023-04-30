@@ -1,0 +1,122 @@
+Glossary
+Agile A collection of software development methods based on iterative and incremental
+development in which requirements and solutions evolve through collaboration between self-
+organizing, cross-functional teams. It’s a conceptual framework that promotes well-planned,
+small iterations throughout the development cycle.
+Anchor role An experienced developer who, in addition to coding full time, leads the technical aspects of
+the project from start to end. The anchor acts as a resource for the rest of the development
+team for technical and nontechnical issues.
+backlog A list of prioritized stories that show the planned work for the current iteration. Stories can be
+added and removed from the backlog during an iteration and reprioritized as needed.
+balanced team An autonomous team composed of people with a variety of skills and perspectives who
+support each other toward a shared goal. The team values cross-disciplinary collaboration and
+iterative delivery.
+blocker A situation or issue raised during daily standup that’s delaying or preventing project progress.
+The team self-organizes to resolve the blocker; when it cannot be unblocked by the team, it
+can be escalated to the client liaison and/or stakeholders.
+build, measure, learn A core component of lean startup methodology. Build-measure-learn is a feedback loop in
+which a team first figures out what problem needs to be solved, then builds and tests the
+smallest possible solution.
+CI Continuous integration. A dedicated server that periodically runs a project-specific set of tests.
+CD Continuous delivery. The ability to make changes safely and quickly into production and
+available for the user in a sustainable way.
+Design crit A session designers run to get feedback from fellow designers and product managers.
+Design review A weekly team meeting that yields the designer a clear list of updates to the designs and
+workflows they’ve presented based on feedback from developers, product managers, and
+client stakeholders around feasibility, business value, brand, priority, and scope.
+Design studio A solution brainstorming activity a designer leads to gather ideas in the form of sketches.
+empathy The ability to understand what other people are thinking and feeling, to take their perspective.
+We hire for empathy and compassion because it enables us to be kind and effective
+collaborators, and good collaborators build happier teams.
+epic A collection of stories that make up a larger product release, feature set, or development focus.
+Epics are useful for prioritizing groups of stories against other groups of stories.
+Iteration A planning cycle, typically lasting one week. Planning and development is iterative; because
+we’re constantly coding and testing, the products we build are always ready to go live, which
+allows us to make changes in response to evolving business requirements. Daily and weekly
+software builds provide constant validation that the software meets the business requirements,
+so we always have complete control of the product and the timeline.
+
+Iteration planning meeting (Ipm) A weekly meeting at the start of an iteration during which the team reviews the upcoming
+stories in the backlog, ensures the backlog is full for the next two or three iterations, confirms
+the prioritization of stories, and estimates any unestimated stories using a point system.
+
+Lean The practice of building products that deliver the most value to customers and minimizing
+waste by systematically identifying assumptions and validating them with actual users.
+
+minimum viable product (mVp) The cheapest, fastest, simplest thing that can help validate or invalidate a hypothesis about
+customer behavior.
+
+pair programming The practice of having two developers work together at the same computer to complete each
+task. At Tanzu Labs, we pair all the time. This practice of focusing two minds on a single
+challenge leads to better decisions the first time around, fewer knowledge gaps, and continual
+implicit training and knowledge transfer. Pairing results in fewer defects, better code, and
+ultimately much more sustainably efficient development. As pairs rotate, knowledge spreads
+rapidly throughout the team, eliminating knowledge silos and enabling team growth.
+
+persona A prototypical model of a user based on research that collects the needs, goals, context, and
+tasks of multiple actual users. Personas help us gain and retain empathy for the users we serve.
+
+pivot or persevere Related to a change in strategy, not vision. To pivot means to change your business model,
+product, or target market based on feedback from the market that your current plan isn’t
+working. To persevere means to continue to follow your plan based on feedback that it’s
+working. You should regularly revisit your strategy in a “pivot or persevere” meeting.
+
+pointing In order to measure a story’s complexity, Tanzu Labs uses a point system of 0, 1, 2, 3, 5, and 8
+points. During an IPM, developers will discuss and agree on a point estimate that—to the best
+of their understanding—reflects the story’s complexity and risk. Points do not reflect a measure
+of how much time a story will take to complete since time is especially difficult to estimate and
+can vary based on external factors. Measuring relative complexity or risk is easier and yields
+more consistent assessments of team progress.
+
+rapid prototyping The quick and early development of a small-scale prototype used to test out certain key
+features of the product design. Useful for learning quickly and cheaply.
+
+retro A meeting that provides a team the opportunity to give positive and negative feedback to each
+other, in a structured way, to yield action items. Team members identify aspects of the previous
+week that went well and aspects that went poorly. We typically reflect on issues ranging from
+technical choices, to inter-role communication, to the working environment. We then group our
+reflections into themes, brainstorm around those themes, and assign action items to remedy
+any issues. To improve accountability, sometimes each retro begins with a review of the prior
+week’s action items.
+
+risk (product) The probability of wasting time and resources on features that don’t provide business or user
+value.
+
+Service blueprint A diagram of a user’s path through an experience, including physical, in-person,and onscreen
+touchpoints. The diagrams are key to communicating a complex flow, especially if there are
+multiple interactions spread over several days, weeks, or even months.
+
+Standup A short, daily meeting—usually held first thing in the morning—to discuss what was
+accomplished the previous day, share any info that is valuable to the entire team, ask for help,
+and determine pairs for the day. The meeting is meant to be as short as possible; any
+discussions that only involve a subset of the team are moved into separate meetings.
+
+Stakeholder An individual who stands to gain or lose from the success or failure of a product, feature, or
+solution. They understand and represent business interests or functional teams. They may also
+possess valuable knowledge about customers and end users.
+
+Style guide A document that serves as a guide for visual design elements. More specifically, a living style
+guide is a living document of code, which details all the various elements and coded modules
+of the application.
+
+test-driven development (tDD) A software development process that relies on the repetition of a very short development
+cycle. The developer writes an (initially failing) automated test case that defines a desired
+improvement or new function, produces the minimum amount of code to pass that test and
+refactors the new code to acceptable standards.
+
+User-centered design (UCD) An approach to product design where the user is put at the front and center of every design
+activity, so as to de-risk the product early and often. The team involves representative end
+users throughout the process of discovering, defining, designing, developing, delivering and
+optimizing the product in order to determine whether the features and user experience are
+useful and usable.
+
+Velocity A measure of how many points a team can be expected to deliver in a given iteration that is
+calculated by averaging the points delivered in previous iterations.
+
+Volatility A measure of how variable a team’s velocity is.
+
+extreme programming (Xp) A flavor of agile software development. Elements of XP include programming in pairs,
+automated testing of all code, avoiding the programming of features until they are actually
+needed, ensuring simplicity and clarity in code, expecting changes in customers requirements
+as time passes and the problem is better understood, and frequent communication—both with
+the customer and among programmers.

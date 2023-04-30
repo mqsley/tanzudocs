@@ -1,0 +1,117 @@
+Experiment techniques
+There are many types of experiments we can conduct to test our hypotheses. Which experiment type is right depends on what we’re
+looking to learn.
+
+Problem
+definition Validation
+Assumptions
+Solution
+definition Validation
+Assumptions
+MVP
+definition Validation
+Assumptions
+Business model
+definition Optimization
+Assumptions
+Problem / solution fit
+Focus: validated learning
+Experiments: pivot or persevere
+Focus: growth
+Experiments: optimizations
+Customer
+interviews
+Low-fidelity
+prototypes
+Concierge test
+Wizard of Oz test
+Smoke test
+A / B te s t s
+Product / market fit Scale
+Customer interviews
+
+These interviews help us validate the following assumptions:
+
+What our customers’ problems are
+How they want to solve those problems
+What’s standing in their way
+Who our customer segments are
+Who within those segments are early adopters
+Low-fidelity prototypes
+
+Rough, early, testable representations of solution concepts that
+help us validate those concepts early on in the design process;
+can be as low fidelity as sketches on paper
+
+High-fidelity prototypes
+
+Detailed, early, testable representations of solution concepts that
+are clickable/tappable, which helps us validate those concepts
+both midway and late in the design process
+
+Walking skeleton test
+
+Implements a tiny part of the system to perform an end-to-end
+function, which helps us validate technical feasibility
+
+Concierge test
+Replaces a complex automated technical solution with humans
+who directly interact with the customer, which helps us validate
+whether anyone wants the solution provided by our product
+Wizard of Oz test
+Replaces the product back end with humans so that the customer
+believes they’re interacting with an automated solution, which
+helps us validate whether anyone wants our product
+Smoke test (or 404 test)
+Typically involves putting up a website that describes the
+product’s value proposition and asks customers to sign up for the
+product before it’s available to help us validate whether anyone
+wants our product enough to give something for it
+A/B test
+Presents two versions of a product or feature to see which one
+performs best. Works best with large sets of users for small
+incremental optimizations of an experience and business model
+Define your minimum viable product
+The minimum viable product (MVP) is an experiment designed to test our product’s value proposition.
+
+MVP
+
+The MVP is the most misunderstood concept in lean
+product development. Its purpose is to help us learn
+whether we should continue to build the product or not.
+Therefore, an MVP is not a delivery milestone; it’s a
+learning milestone.
+
+the mVp is a learning milestone
+The MVP is the smallest possible version of our product
+that enables us to learn the most about our customers
+with the least amount of effort. Do early adopters of our
+product find it so valuable that they’d be upset if they
+were no longer able to use it? Have we found a repeatable
+way of selling our product? The MVP helps us answer
+these questions faster and with less waste.
+
+Conversely, here’s what an MVP isn’t:
+
+The first version of a product that we feel comfortable
+showing our executive sponsors
+Available to the market
+A release that we define a priori
+A proof of concept
+A minimum set of features without an accompanying set of business goals and KPI
+A complete product for internal demonstration purposes
+Always software
+the mVp is often not more than a few features that together help the user do something valuable. We learn and iterate on the
+product not by building one component of the value proposition at a time, but by delivering thin slices of the full value proposition.
+From that starting point, we then build out the product experience with increasing increments of value.
+
+Delightful
+Useful
+Usable
+Reliable
+Functional
+Delightful
+Useful
+Usable
+Reliable
+Functional
